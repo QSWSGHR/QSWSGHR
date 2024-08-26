@@ -1,0 +1,461 @@
+C:\Users\DYX\.conda\envs\rl-for-ad\python.exe C:\Users\DYX\PycharmProjects\VPI\src\main.py 
+
+hyper_parameters = ('mc_control', 0.99, 0.02, 1.0, 0.01, 0.998466)
+
+ --- Episode=0 ---
+ eps=0.998466
+ Average Score in returns_window = -134.00 
+ duration=0.03
+Episode 1 / 7000. Eps = 0.998466. Total_steps = 4. Return = -134. Max return = -inf, Top 10 = [-134]
+Episode 21 / 7000. Eps = 0.9682753947729185. Total_steps = 7. Return = -37. Max return = -23, Top 10 = [-23, -37, -41, -44, -74, -79, -105, -105, -110, -112]
+Episode 41 / 7000. Eps = 0.9389976625369826. Total_steps = 6. Return = -112. Max return = -3, Top 10 = [-3, -23, -31, -34, -37, -41, -41, -44, -47, -67]
+Episode 61 / 7000. Eps = 0.9106052007618131. Total_steps = 6. Return = -82. Max return = -3, Top 10 = [-3, -23, -31, -34, -34, -37, -41, -41, -44, -47]
+Episode 81 / 7000. Eps = 0.8830712415344311. Total_steps = 11. Return = -57. Max return = 10, Top 10 = [10, -3, -14, -23, -31, -34, -34, -37, -40, -41]
+
+ --- Episode=100 ---
+ eps=0.8563698263229421
+ Average Score in returns_window = -108.50 
+ duration=3.21
+Episode 101 / 7000. Eps = 0.8563698263229421. Total_steps = 11. Return = -17. Max return = 10, Top 10 = [10, -3, -14, -17, -23, -31, -34, -34, -34, -37]
+Episode 121 / 7000. Eps = 0.8304757815032884. Total_steps = 9. Return = -85. Max return = 10, Top 10 = [10, -3, -9, -10, -14, -17, -21, -23, -26, -31]
+Episode 141 / 7000. Eps = 0.8053646946260007. Total_steps = 9. Return = -133. Max return = 11, Top 10 = [11, 10, -3, -9, -10, -14, -16, -17, -19, -20]
+Episode 161 / 7000. Eps = 0.7810128914005703. Total_steps = 7. Return = -163. Max return = 11, Top 10 = [11, 10, 10, -3, -7, -9, -10, -14, -16, -17]
+Episode 181 / 7000. Eps = 0.7573974133757441. Total_steps = 10. Return = -14. Max return = 11, Top 10 = [11, 10, 10, -3, -7, -7, -9, -9, -10, -11]
+
+ --- Episode=200 ---
+ eps=0.7344959962947019
+ Average Score in returns_window = -89.60 
+ duration=6.40
+Episode 201 / 7000. Eps = 0.7344959962947019. Total_steps = 5. Return = -67. Max return = 11, Top 10 = [11, 10, 10, 6, -1, -3, -7, -7, -9, -9]
+Episode 221 / 7000. Eps = 0.7122870491047069. Total_steps = 5. Return = -105. Max return = 17, Top 10 = [17, 11, 10, 10, 6, 6, -1, -3, -3, -7]
+Episode 241 / 7000. Eps = 0.6907496336014416. Total_steps = 8. Return = -82. Max return = 17, Top 10 = [17, 11, 10, 10, 10, 6, 6, 2, 0, -1]
+Episode 261 / 7000. Eps = 0.6698634446888371. Total_steps = 7. Return = 11. Max return = 17, Top 10 = [17, 13, 11, 11, 10, 10, 10, 6, 6, 2]
+Episode 281 / 7000. Eps = 0.6496087912357864. Total_steps = 6. Return = -72. Max return = 17, Top 10 = [17, 13, 11, 11, 10, 10, 10, 10, 10, 6]
+
+ --- Episode=300 ---
+ eps=0.6299665775116924
+ Average Score in returns_window = -75.64 
+ duration=9.59
+Episode 301 / 7000. Eps = 0.6299665775116924. Total_steps = 8. Return = -166. Max return = 17, Top 10 = [17, 13, 11, 11, 10, 10, 10, 10, 10, 10]
+Episode 321 / 7000. Eps = 0.6109182851833495. Total_steps = 6. Return = -64. Max return = 17, Top 10 = [17, 13, 11, 11, 10, 10, 10, 10, 10, 10]
+Episode 341 / 7000. Eps = 0.5924459558561853. Total_steps = 7. Return = -111. Max return = 17, Top 10 = [17, 13, 11, 11, 10, 10, 10, 10, 10, 10]
+Episode 361 / 7000. Eps = 0.574532174143403. Total_steps = 13. Return = -23. Max return = 17, Top 10 = [17, 13, 11, 11, 10, 10, 10, 10, 10, 10]
+Episode 381 / 7000. Eps = 0.5571600512470597. Total_steps = 7. Return = -83. Max return = 17, Top 10 = [17, 13, 11, 11, 10, 10, 10, 10, 10, 10]
+
+ --- Episode=400 ---
+ eps=0.5403132090356066
+ Average Score in returns_window = -59.28 
+ duration=12.77
+Episode 401 / 7000. Eps = 0.5403132090356066. Total_steps = 6. Return = -34. Max return = 17, Top 10 = [17, 13, 11, 11, 10, 10, 10, 10, 10, 10]
+Episode 421 / 7000. Eps = 0.5239757646028751. Total_steps = 9. Return = -7. Max return = 17, Top 10 = [17, 17, 13, 11, 11, 10, 10, 10, 10, 10]
+Episode 441 / 7000. Eps = 0.5081323152939513. Total_steps = 8. Return = -88. Max return = 17, Top 10 = [17, 17, 17, 17, 13, 11, 11, 10, 10, 10]
+Episode 461 / 7000. Eps = 0.49276792418382576. Total_steps = 5. Return = -141. Max return = 17, Top 10 = [17, 17, 17, 17, 17, 13, 11, 11, 10, 10]
+Episode 481 / 7000. Eps = 0.4778681059951218. Total_steps = 13. Return = -97. Max return = 17, Top 10 = [17, 17, 17, 17, 17, 17, 13, 11, 11, 10]
+
+ --- Episode=500 ---
+ eps=0.46341881344163294
+ Average Score in returns_window = -44.87 
+ duration=15.96
+Episode 501 / 7000. Eps = 0.46341881344163294. Total_steps = 8. Return = -8. Max return = 17, Top 10 = [17, 17, 17, 17, 17, 17, 13, 11, 11, 10]
+Episode 521 / 7000. Eps = 0.4494064239847872. Total_steps = 8. Return = -40. Max return = 17, Top 10 = [17, 17, 17, 17, 17, 17, 17, 17, 13, 11]
+Episode 541 / 7000. Eps = 0.4358177269905588. Total_steps = 5. Return = 17. Max return = 17, Top 10 = [17, 17, 17, 17, 17, 17, 17, 17, 17, 17]
+Episode 561 / 7000. Eps = 0.4226399112747146. Total_steps = 7. Return = 7. Max return = 17, Top 10 = [17, 17, 17, 17, 17, 17, 17, 17, 17, 17]
+Episode 581 / 7000. Eps = 0.4098605530246553. Total_steps = 9. Return = 5. Max return = 17, Top 10 = [17, 17, 17, 17, 17, 17, 17, 17, 17, 17]
+
+ --- Episode=600 ---
+ eps=0.3974676040864635
+ Average Score in returns_window = -36.56 
+ duration=19.16
+Episode 601 / 7000. Eps = 0.3974676040864635. Total_steps = 7. Return = 7. Max return = 17, Top 10 = [17, 17, 17, 17, 17, 17, 17, 17, 17, 17]
+Episode 621 / 7000. Eps = 0.3854493806061162. Total_steps = 8. Return = -44. Max return = 17, Top 10 = [17, 17, 17, 17, 17, 17, 17, 17, 17, 17]
+Episode 641 / 7000. Eps = 0.3737945520141537. Total_steps = 8. Return = 0. Max return = 17, Top 10 = [17, 17, 17, 17, 17, 17, 17, 17, 17, 17]
+Episode 661 / 7000. Eps = 0.3624921303434176. Total_steps = 10. Return = -14. Max return = 17, Top 10 = [17, 17, 17, 17, 17, 17, 17, 17, 17, 17]
+Episode 681 / 7000. Eps = 0.35153145986978906. Total_steps = 7. Return = 3. Max return = 17, Top 10 = [17, 17, 17, 17, 17, 17, 17, 17, 17, 17]
+
+ --- Episode=700 ---
+ eps=0.3409022070661599
+ Average Score in returns_window = -26.95 
+ duration=22.34
+Episode 701 / 7000. Eps = 0.3409022070661599. Total_steps = 5. Return = 17. Max return = 17, Top 10 = [17, 17, 17, 17, 17, 17, 17, 17, 17, 17]
+Episode 721 / 7000. Eps = 0.33059435086016464. Total_steps = 5. Return = -145. Max return = 17, Top 10 = [17, 17, 17, 17, 17, 17, 17, 17, 17, 17]
+Episode 741 / 7000. Eps = 0.3205981731864907. Total_steps = 5. Return = -23. Max return = 17, Top 10 = [17, 17, 17, 17, 17, 17, 17, 17, 17, 17]
+Episode 761 / 7000. Eps = 0.3109042498248572. Total_steps = 6. Return = 10. Max return = 17, Top 10 = [17, 17, 17, 17, 17, 17, 17, 17, 17, 17]
+Episode 781 / 7000. Eps = 0.3015034415150256. Total_steps = 5. Return = -59. Max return = 17, Top 10 = [17, 17, 17, 17, 17, 17, 17, 17, 17, 17]
+
+ --- Episode=800 ---
+ eps=0.29238688534046714
+ Average Score in returns_window = -20.79 
+ duration=25.53
+Episode 801 / 7000. Eps = 0.29238688534046714. Total_steps = 6. Return = -30. Max return = 17, Top 10 = [17, 17, 17, 17, 17, 17, 17, 17, 17, 17]
+Episode 821 / 7000. Eps = 0.28354598637256034. Total_steps = 5. Return = 17. Max return = 17, Top 10 = [17, 17, 17, 17, 17, 17, 17, 17, 17, 17]
+Episode 841 / 7000. Eps = 0.27497240956744384. Total_steps = 9. Return = -7. Max return = 17, Top 10 = [17, 17, 17, 17, 17, 17, 17, 17, 17, 17]
+Episode 861 / 7000. Eps = 0.2666580719078841. Total_steps = 5. Return = 17. Max return = 18, Top 10 = [18, 17, 17, 17, 17, 17, 17, 17, 17, 17]
+Episode 881 / 7000. Eps = 0.2585951347827485. Total_steps = 5. Return = 17. Max return = 18, Top 10 = [18, 17, 17, 17, 17, 17, 17, 17, 17, 17]
+
+ --- Episode=900 ---
+ eps=0.2507759965969014
+ Average Score in returns_window = -7.23 
+ duration=28.72
+Episode 901 / 7000. Eps = 0.2507759965969014. Total_steps = 5. Return = 17. Max return = 18, Top 10 = [18, 17, 17, 17, 17, 17, 17, 17, 17, 17]
+Episode 921 / 7000. Eps = 0.2431932856045542. Total_steps = 5. Return = 17. Max return = 18, Top 10 = [18, 17, 17, 17, 17, 17, 17, 17, 17, 17]
+Episode 941 / 7000. Eps = 0.2358398529593124. Total_steps = 6. Return = 10. Max return = 18, Top 10 = [18, 17, 17, 17, 17, 17, 17, 17, 17, 17]
+Episode 961 / 7000. Eps = 0.22870876597436998. Total_steps = 5. Return = 17. Max return = 18, Top 10 = [18, 17, 17, 17, 17, 17, 17, 17, 17, 17]
+Episode 981 / 7000. Eps = 0.22179330158649377. Total_steps = 7. Return = 3. Max return = 18, Top 10 = [18, 18, 17, 17, 17, 17, 17, 17, 17, 17]
+
+ --- Episode=1000 ---
+ eps=0.21508694001763823
+ Average Score in returns_window = -13.36 
+ duration=31.90
+Episode 1001 / 7000. Eps = 0.21508694001763823. Total_steps = 5. Return = 17. Max return = 18, Top 10 = [18, 18, 18, 17, 17, 17, 17, 17, 17, 17]
+Episode 1021 / 7000. Eps = 0.20858335862821334. Total_steps = 7. Return = -71. Max return = 18, Top 10 = [18, 18, 18, 17, 17, 17, 17, 17, 17, 17]
+Episode 1041 / 7000. Eps = 0.20227642595621134. Total_steps = 5. Return = -59. Max return = 18, Top 10 = [18, 18, 18, 17, 17, 17, 17, 17, 17, 17]
+Episode 1061 / 7000. Eps = 0.19616019593657225. Total_steps = 5. Return = 17. Max return = 18, Top 10 = [18, 18, 18, 17, 17, 17, 17, 17, 17, 17]
+Episode 1081 / 7000. Eps = 0.19022890229533854. Total_steps = 5. Return = 17. Max return = 18, Top 10 = [18, 18, 18, 17, 17, 17, 17, 17, 17, 17]
+
+ --- Episode=1100 ---
+ eps=0.1844769531133137
+ Average Score in returns_window = -9.30 
+ duration=35.09
+Episode 1101 / 7000. Eps = 0.1844769531133137. Total_steps = 8. Return = 0. Max return = 18, Top 10 = [18, 18, 18, 17, 17, 17, 17, 17, 17, 17]
+Episode 1121 / 7000. Eps = 0.17889892555409898. Total_steps = 8. Return = -86. Max return = 18, Top 10 = [18, 18, 18, 17, 17, 17, 17, 17, 17, 17]
+Episode 1141 / 7000. Eps = 0.17348956075153893. Total_steps = 5. Return = -65. Max return = 18, Top 10 = [18, 18, 18, 17, 17, 17, 17, 17, 17, 17]
+Episode 1161 / 7000. Eps = 0.16824375885175516. Total_steps = 5. Return = 17. Max return = 18, Top 10 = [18, 18, 18, 17, 17, 17, 17, 17, 17, 17]
+Episode 1181 / 7000. Eps = 0.16315657420509352. Total_steps = 5. Return = 17. Max return = 18, Top 10 = [18, 18, 18, 17, 17, 17, 17, 17, 17, 17]
+
+ --- Episode=1200 ---
+ eps=0.15822321070345294
+ Average Score in returns_window = 2.26 
+ duration=38.28
+Episode 1201 / 7000. Eps = 0.15822321070345294. Total_steps = 6. Return = 10. Max return = 18, Top 10 = [18, 18, 18, 17, 17, 17, 17, 17, 17, 17]
+Episode 1221 / 7000. Eps = 0.1534390172585992. Total_steps = 5. Return = 17. Max return = 18, Top 10 = [18, 18, 18, 17, 17, 17, 17, 17, 17, 17]
+Episode 1241 / 7000. Eps = 0.14879948341720073. Total_steps = 5. Return = 17. Max return = 18, Top 10 = [18, 18, 18, 17, 17, 17, 17, 17, 17, 17]
+Episode 1261 / 7000. Eps = 0.14430023510845272. Total_steps = 5. Return = -59. Max return = 18, Top 10 = [18, 18, 18, 17, 17, 17, 17, 17, 17, 17]
+Episode 1281 / 7000. Eps = 0.13993703052028011. Total_steps = 5. Return = 17. Max return = 18, Top 10 = [18, 18, 18, 17, 17, 17, 17, 17, 17, 17]
+
+ --- Episode=1300 ---
+ eps=0.13570575610023192
+ Average Score in returns_window = 4.89 
+ duration=41.46
+Episode 1301 / 7000. Eps = 0.13570575610023192. Total_steps = 10. Return = -50. Max return = 18, Top 10 = [18, 18, 18, 17, 17, 17, 17, 17, 17, 17]
+Episode 1321 / 7000. Eps = 0.1316024226772964. Total_steps = 5. Return = 17. Max return = 18, Top 10 = [18, 18, 18, 17, 17, 17, 17, 17, 17, 17]
+Episode 1341 / 7000. Eps = 0.12762316170098095. Total_steps = 5. Return = -23. Max return = 18, Top 10 = [18, 18, 18, 17, 17, 17, 17, 17, 17, 17]
+Episode 1361 / 7000. Eps = 0.1237642215941107. Total_steps = 5. Return = 17. Max return = 18, Top 10 = [18, 18, 18, 17, 17, 17, 17, 17, 17, 17]
+Episode 1381 / 7000. Eps = 0.12002196421590766. Total_steps = 5. Return = 17. Max return = 18, Top 10 = [18, 18, 18, 17, 17, 17, 17, 17, 17, 17]
+
+ --- Episode=1400 ---
+ eps=0.1163928614320158
+ Average Score in returns_window = 7.59 
+ duration=44.65
+Episode 1401 / 7000. Eps = 0.1163928614320158. Total_steps = 5. Return = -23. Max return = 18, Top 10 = [18, 18, 18, 17, 17, 17, 17, 17, 17, 17]
+Episode 1421 / 7000. Eps = 0.11287349178823784. Total_steps = 5. Return = 17. Max return = 18, Top 10 = [18, 18, 18, 17, 17, 17, 17, 17, 17, 17]
+Episode 1441 / 7000. Eps = 0.10946053728484871. Total_steps = 6. Return = 10. Max return = 18, Top 10 = [18, 18, 18, 17, 17, 17, 17, 17, 17, 17]
+Episode 1461 / 7000. Eps = 0.10615078024844375. Total_steps = 5. Return = 17. Max return = 18, Top 10 = [18, 18, 18, 17, 17, 17, 17, 17, 17, 17]
+Episode 1481 / 7000. Eps = 0.10294110029837288. Total_steps = 5. Return = 17. Max return = 18, Top 10 = [18, 18, 18, 17, 17, 17, 17, 17, 17, 17]
+
+ --- Episode=1500 ---
+ eps=0.09982847140490068
+ Average Score in returns_window = 6.08 
+ duration=47.83
+Episode 1501 / 7000. Eps = 0.09982847140490068. Total_steps = 7. Return = 3. Max return = 18, Top 10 = [18, 18, 18, 17, 17, 17, 17, 17, 17, 17]
+Episode 1521 / 7000. Eps = 0.09680995903631892. Total_steps = 5. Return = 17. Max return = 18, Top 10 = [18, 18, 18, 17, 17, 17, 17, 17, 17, 17]
+Episode 1541 / 7000. Eps = 0.09388271739232157. Total_steps = 5. Return = 17. Max return = 18, Top 10 = [18, 18, 18, 17, 17, 17, 17, 17, 17, 17]
+Episode 1561 / 7000. Eps = 0.09104398672103454. Total_steps = 6. Return = 10. Max return = 18, Top 10 = [18, 18, 18, 17, 17, 17, 17, 17, 17, 17]
+Episode 1581 / 7000. Eps = 0.0882910907171702. Total_steps = 5. Return = 17. Max return = 18, Top 10 = [18, 18, 18, 17, 17, 17, 17, 17, 17, 17]
+
+ --- Episode=1600 ---
+ eps=0.08562143399885376
+ Average Score in returns_window = 4.90 
+ duration=51.02
+Episode 1601 / 7000. Eps = 0.08562143399885376. Total_steps = 5. Return = 17. Max return = 18, Top 10 = [18, 18, 18, 17, 17, 17, 17, 17, 17, 17]
+Episode 1621 / 7000. Eps = 0.08303249966074311. Total_steps = 5. Return = 17. Max return = 18, Top 10 = [18, 18, 18, 17, 17, 17, 17, 17, 17, 17]
+Episode 1641 / 7000. Eps = 0.08052184690113455. Total_steps = 5. Return = 17. Max return = 18, Top 10 = [18, 18, 18, 17, 17, 17, 17, 17, 17, 17]
+Episode 1661 / 7000. Eps = 0.0780871087208183. Total_steps = 5. Return = 17. Max return = 18, Top 10 = [18, 18, 18, 17, 17, 17, 17, 17, 17, 17]
+Episode 1681 / 7000. Eps = 0.0757259896915129. Total_steps = 5. Return = 17. Max return = 18, Top 10 = [18, 18, 18, 17, 17, 17, 17, 17, 17, 17]
+
+ --- Episode=1700 ---
+ eps=0.07343626379177617
+ Average Score in returns_window = 9.56 
+ duration=54.20
+Episode 1701 / 7000. Eps = 0.07343626379177617. Total_steps = 7. Return = 3. Max return = 18, Top 10 = [18, 18, 18, 17, 17, 17, 17, 17, 17, 17]
+Episode 1721 / 7000. Eps = 0.07121577230835129. Total_steps = 5. Return = 17. Max return = 18, Top 10 = [18, 18, 18, 17, 17, 17, 17, 17, 17, 17]
+Episode 1741 / 7000. Eps = 0.0690624218009698. Total_steps = 5. Return = 17. Max return = 18, Top 10 = [18, 18, 18, 17, 17, 17, 17, 17, 17, 17]
+Episode 1761 / 7000. Eps = 0.06697418212869327. Total_steps = 5. Return = -23. Max return = 18, Top 10 = [18, 18, 18, 17, 17, 17, 17, 17, 17, 17]
+Episode 1781 / 7000. Eps = 0.06494908453593193. Total_steps = 5. Return = 17. Max return = 18, Top 10 = [18, 18, 18, 17, 17, 17, 17, 17, 17, 17]
+
+ --- Episode=1800 ---
+ eps=0.06298521979633673
+ Average Score in returns_window = 11.17 
+ duration=57.39
+Episode 1801 / 7000. Eps = 0.06298521979633673. Total_steps = 8. Return = 0. Max return = 18, Top 10 = [18, 18, 18, 17, 17, 17, 17, 17, 17, 17]
+Episode 1821 / 7000. Eps = 0.06108073641281424. Total_steps = 5. Return = 17. Max return = 18, Top 10 = [18, 18, 18, 17, 17, 17, 17, 17, 17, 17]
+Episode 1841 / 7000. Eps = 0.05923383887196786. Total_steps = 5. Return = 17. Max return = 18, Top 10 = [18, 18, 18, 17, 17, 17, 17, 17, 17, 17]
+Episode 1861 / 7000. Eps = 0.05744278595131943. Total_steps = 6. Return = 10. Max return = 18, Top 10 = [18, 18, 18, 17, 17, 17, 17, 17, 17, 17]
+Episode 1881 / 7000. Eps = 0.05570588907771528. Total_steps = 5. Return = 17. Max return = 18, Top 10 = [18, 18, 18, 17, 17, 17, 17, 17, 17, 17]
+
+ --- Episode=1900 ---
+ eps=0.054021510735369226
+ Average Score in returns_window = 11.52 
+ duration=60.57
+Episode 1901 / 7000. Eps = 0.054021510735369226. Total_steps = 5. Return = 17. Max return = 18, Top 10 = [18, 18, 18, 17, 17, 17, 17, 17, 17, 17]
+Episode 1921 / 7000. Eps = 0.05238806292204151. Total_steps = 5. Return = 17. Max return = 18, Top 10 = [18, 18, 18, 17, 17, 17, 17, 17, 17, 17]
+Episode 1941 / 7000. Eps = 0.05080400565189825. Total_steps = 6. Return = 10. Max return = 18, Top 10 = [18, 18, 18, 17, 17, 17, 17, 17, 17, 17]
+Episode 1961 / 7000. Eps = 0.049267845503639926. Total_steps = 5. Return = 17. Max return = 18, Top 10 = [18, 18, 18, 17, 17, 17, 17, 17, 17, 17]
+Episode 1981 / 7000. Eps = 0.04777813421253011. Total_steps = 5. Return = -59. Max return = 18, Top 10 = [18, 18, 18, 17, 17, 17, 17, 17, 17, 17]
+
+ --- Episode=2000 ---
+ eps=0.04633346730499693
+ Average Score in returns_window = 12.33 
+ duration=63.76
+Episode 2001 / 7000. Eps = 0.04633346730499693. Total_steps = 5. Return = 17. Max return = 18, Top 10 = [18, 18, 18, 17, 17, 17, 17, 17, 17, 17]
+Episode 2021 / 7000. Eps = 0.04493248277452013. Total_steps = 5. Return = 17. Max return = 18, Top 10 = [18, 18, 18, 17, 17, 17, 17, 17, 17, 17]
+Episode 2041 / 7000. Eps = 0.04357385979755527. Total_steps = 5. Return = 17. Max return = 18, Top 10 = [18, 18, 18, 17, 17, 17, 17, 17, 17, 17]
+Episode 2061 / 7000. Eps = 0.04225631748828465. Total_steps = 5. Return = 17. Max return = 18, Top 10 = [18, 18, 18, 17, 17, 17, 17, 17, 17, 17]
+Episode 2081 / 7000. Eps = 0.04097861369102063. Total_steps = 5. Return = 17. Max return = 18, Top 10 = [18, 18, 18, 17, 17, 17, 17, 17, 17, 17]
+
+ --- Episode=2100 ---
+ eps=0.03973954380912309
+ Average Score in returns_window = 12.61 
+ duration=66.95
+Episode 2101 / 7000. Eps = 0.03973954380912309. Total_steps = 6. Return = 10. Max return = 18, Top 10 = [18, 18, 18, 17, 17, 17, 17, 17, 17, 17]
+Episode 2121 / 7000. Eps = 0.03853793966932709. Total_steps = 5. Return = 17. Max return = 18, Top 10 = [18, 18, 18, 17, 17, 17, 17, 17, 17, 17]
+Episode 2141 / 7000. Eps = 0.037372668420409504. Total_steps = 5. Return = 17. Max return = 18, Top 10 = [18, 18, 18, 17, 17, 17, 17, 17, 17, 17]
+Episode 2161 / 7000. Eps = 0.03624263146515695. Total_steps = 5. Return = 17. Max return = 18, Top 10 = [18, 18, 18, 17, 17, 17, 17, 17, 17, 17]
+Episode 2181 / 7000. Eps = 0.03514676342462763. Total_steps = 5. Return = 17. Max return = 18, Top 10 = [18, 18, 18, 17, 17, 17, 17, 17, 17, 17]
+
+ --- Episode=2200 ---
+ eps=0.03408403113373083
+ Average Score in returns_window = 15.50 
+ duration=70.13
+Episode 2201 / 7000. Eps = 0.03408403113373083. Total_steps = 5. Return = 17. Max return = 18, Top 10 = [18, 18, 18, 17, 17, 17, 17, 17, 17, 17]
+Episode 2221 / 7000. Eps = 0.03305343266717709. Total_steps = 5. Return = 17. Max return = 18, Top 10 = [18, 18, 18, 17, 17, 17, 17, 17, 17, 17]
+Episode 2241 / 7000. Eps = 0.03205399639488072. Total_steps = 5. Return = 17. Max return = 18, Top 10 = [18, 18, 18, 17, 17, 17, 17, 17, 17, 17]
+Episode 2261 / 7000. Eps = 0.031084780065923953. Total_steps = 5. Return = 17. Max return = 18, Top 10 = [18, 18, 18, 17, 17, 17, 17, 17, 17, 17]
+Episode 2281 / 7000. Eps = 0.030144869920219485. Total_steps = 5. Return = 17. Max return = 18, Top 10 = [18, 18, 18, 17, 17, 17, 17, 17, 17, 17]
+
+ --- Episode=2300 ---
+ eps=0.029233379827033466
+ Average Score in returns_window = 13.88 
+ duration=73.32
+Episode 2301 / 7000. Eps = 0.029233379827033466. Total_steps = 5. Return = 17. Max return = 18, Top 10 = [18, 18, 18, 17, 17, 17, 17, 17, 17, 17]
+Episode 2321 / 7000. Eps = 0.028349450449557115. Total_steps = 8. Return = 0. Max return = 18, Top 10 = [18, 18, 18, 17, 17, 17, 17, 17, 17, 17]
+Episode 2341 / 7000. Eps = 0.027492248434739092. Total_steps = 5. Return = 17. Max return = 18, Top 10 = [18, 18, 18, 17, 17, 17, 17, 17, 17, 17]
+Episode 2361 / 7000. Eps = 0.02666096562761491. Total_steps = 5. Return = 17. Max return = 18, Top 10 = [18, 18, 18, 17, 17, 17, 17, 17, 17, 17]
+Episode 2381 / 7000. Eps = 0.02585481830939264. Total_steps = 5. Return = 17. Max return = 18, Top 10 = [18, 18, 18, 17, 17, 17, 17, 17, 17, 17]
+
+ --- Episode=2400 ---
+ eps=0.025073046458576696
+ Average Score in returns_window = 14.49 
+ duration=76.50
+Episode 2401 / 7000. Eps = 0.025073046458576696. Total_steps = 5. Return = 17. Max return = 18, Top 10 = [18, 18, 18, 17, 17, 17, 17, 17, 17, 17]
+Episode 2421 / 7000. Eps = 0.02431491303443289. Total_steps = 5. Return = 17. Max return = 18, Top 10 = [18, 18, 18, 17, 17, 17, 17, 17, 17, 17]
+Episode 2441 / 7000. Eps = 0.023579703282119464. Total_steps = 5. Return = 17. Max return = 18, Top 10 = [18, 18, 18, 17, 17, 17, 17, 17, 17, 17]
+Episode 2461 / 7000. Eps = 0.022866724058828745. Total_steps = 5. Return = 17. Max return = 18, Top 10 = [18, 18, 18, 17, 17, 17, 17, 17, 17, 17]
+Episode 2481 / 7000. Eps = 0.02217530318030438. Total_steps = 5. Return = 17. Max return = 18, Top 10 = [18, 18, 18, 17, 17, 17, 17, 17, 17, 17]
+
+ --- Episode=2500 ---
+ eps=0.021504788787117816
+ Average Score in returns_window = 15.27 
+ duration=79.68
+Episode 2501 / 7000. Eps = 0.021504788787117816. Total_steps = 5. Return = 17. Max return = 18, Top 10 = [18, 18, 18, 17, 17, 17, 17, 17, 17, 17]
+Episode 2521 / 7000. Eps = 0.020854548730106715. Total_steps = 5. Return = 17. Max return = 18, Top 10 = [18, 18, 18, 17, 17, 17, 17, 17, 17, 17]
+Episode 2541 / 7000. Eps = 0.02022396997439587. Total_steps = 5. Return = -23. Max return = 18, Top 10 = [18, 18, 18, 17, 17, 17, 17, 17, 17, 17]
+Episode 2561 / 7000. Eps = 0.0196124580214387. Total_steps = 5. Return = 17. Max return = 18, Top 10 = [18, 18, 18, 17, 17, 17, 17, 17, 17, 17]
+Episode 2581 / 7000. Eps = 0.019019436348534504. Total_steps = 5. Return = 17. Max return = 18, Top 10 = [18, 18, 18, 17, 17, 17, 17, 17, 17, 17]
+
+ --- Episode=2600 ---
+ eps=0.018444345865293
+ Average Score in returns_window = 15.81 
+ duration=82.86
+Episode 2601 / 7000. Eps = 0.018444345865293. Total_steps = 5. Return = 17. Max return = 18, Top 10 = [18, 18, 18, 17, 17, 17, 17, 17, 17, 17]
+Episode 2621 / 7000. Eps = 0.017886644386533763. Total_steps = 5. Return = 17. Max return = 18, Top 10 = [18, 18, 18, 17, 17, 17, 17, 17, 17, 17]
+Episode 2641 / 7000. Eps = 0.017345806121123585. Total_steps = 5. Return = 17. Max return = 18, Top 10 = [18, 18, 18, 17, 17, 17, 17, 17, 17, 17]
+Episode 2661 / 7000. Eps = 0.016821321176269843. Total_steps = 5. Return = 17. Max return = 18, Top 10 = [18, 18, 18, 17, 17, 17, 17, 17, 17, 17]
+Episode 2681 / 7000. Eps = 0.016312695076802552. Total_steps = 5. Return = 17. Max return = 18, Top 10 = [18, 18, 18, 17, 17, 17, 17, 17, 17, 17]
+
+ --- Episode=2700 ---
+ eps=0.01581944829899189
+ Average Score in returns_window = 15.95 
+ duration=86.05
+Episode 2701 / 7000. Eps = 0.01581944829899189. Total_steps = 5. Return = 17. Max return = 18, Top 10 = [18, 18, 18, 17, 17, 17, 17, 17, 17, 17]
+Episode 2721 / 7000. Eps = 0.015341115818461665. Total_steps = 5. Return = 17. Max return = 18, Top 10 = [18, 18, 18, 17, 17, 17, 17, 17, 17, 17]
+Episode 2741 / 7000. Eps = 0.01487724667177253. Total_steps = 5. Return = 17. Max return = 18, Top 10 = [18, 18, 18, 17, 17, 17, 17, 17, 17, 17]
+Episode 2761 / 7000. Eps = 0.014427403531261587. Total_steps = 5. Return = 17. Max return = 18, Top 10 = [18, 18, 18, 17, 17, 17, 17, 17, 17, 17]
+Episode 2781 / 7000. Eps = 0.013991162292737572. Total_steps = 5. Return = 17. Max return = 18, Top 10 = [18, 18, 18, 17, 17, 17, 17, 17, 17, 17]
+
+ --- Episode=2800 ---
+ eps=0.01356811167564288
+ Average Score in returns_window = 16.16 
+ duration=89.23
+Episode 2801 / 7000. Eps = 0.01356811167564288. Total_steps = 5. Return = 17. Max return = 18, Top 10 = [18, 18, 18, 17, 17, 17, 17, 17, 17, 17]
+Episode 2821 / 7000. Eps = 0.013157852835305512. Total_steps = 5. Return = 17. Max return = 18, Top 10 = [18, 18, 18, 17, 17, 17, 17, 17, 17, 17]
+Episode 2841 / 7000. Eps = 0.012759998986915334. Total_steps = 5. Return = 17. Max return = 18, Top 10 = [18, 18, 18, 17, 17, 17, 17, 17, 17, 17]
+Episode 2861 / 7000. Eps = 0.012374175040870176. Total_steps = 5. Return = 17. Max return = 18, Top 10 = [18, 18, 18, 17, 17, 17, 17, 17, 17, 17]
+Episode 2881 / 7000. Eps = 0.01200001724914796. Total_steps = 5. Return = 17. Max return = 18, Top 10 = [18, 18, 18, 17, 17, 17, 17, 17, 17, 17]
+
+ --- Episode=2900 ---
+ eps=0.01163717286237145
+ Average Score in returns_window = 14.13 
+ duration=92.42
+Episode 2901 / 7000. Eps = 0.01163717286237145. Total_steps = 5. Return = 17. Max return = 18, Top 10 = [18, 18, 18, 17, 17, 17, 17, 17, 17, 17]
+Episode 2921 / 7000. Eps = 0.01128529979724238. Total_steps = 5. Return = 17. Max return = 18, Top 10 = [18, 18, 18, 17, 17, 17, 17, 17, 17, 17]
+Episode 2941 / 7000. Eps = 0.010944066314031322. Total_steps = 5. Return = 17. Max return = 18, Top 10 = [18, 18, 18, 17, 17, 17, 17, 17, 17, 17]
+Episode 2961 / 7000. Eps = 0.010613150703819338. Total_steps = 5. Return = 17. Max return = 18, Top 10 = [18, 18, 18, 17, 17, 17, 17, 17, 17, 17]
+Episode 2981 / 7000. Eps = 0.01029224098519644. Total_steps = 5. Return = 17. Max return = 18, Top 10 = [18, 18, 18, 17, 17, 17, 17, 17, 17, 17]
+
+ --- Episode=3000 ---
+ eps=0.01
+ Average Score in returns_window = 13.29 
+ duration=95.60
+Episode 3001 / 7000. Eps = 0.01. Total_steps = 5. Return = 17. Max return = 18, Top 10 = [18, 18, 18, 17, 17, 17, 17, 17, 17, 17]
+Episode 3021 / 7000. Eps = 0.01. Total_steps = 5. Return = 17. Max return = 18, Top 10 = [18, 18, 18, 17, 17, 17, 17, 17, 17, 17]
+Episode 3041 / 7000. Eps = 0.01. Total_steps = 5. Return = 17. Max return = 18, Top 10 = [18, 18, 18, 17, 17, 17, 17, 17, 17, 17]
+Episode 3061 / 7000. Eps = 0.01. Total_steps = 5. Return = 17. Max return = 18, Top 10 = [18, 18, 18, 17, 17, 17, 17, 17, 17, 17]
+Episode 3081 / 7000. Eps = 0.01. Total_steps = 7. Return = 11. Max return = 18, Top 10 = [18, 18, 18, 17, 17, 17, 17, 17, 17, 17]
+
+ --- Episode=3100 ---
+ eps=0.01
+ Average Score in returns_window = 16.19 
+ duration=98.79
+Episode 3101 / 7000. Eps = 0.01. Total_steps = 5. Return = 17. Max return = 18, Top 10 = [18, 18, 18, 17, 17, 17, 17, 17, 17, 17]
+Episode 3121 / 7000. Eps = 0.01. Total_steps = 5. Return = 17. Max return = 18, Top 10 = [18, 18, 18, 17, 17, 17, 17, 17, 17, 17]
+Episode 3141 / 7000. Eps = 0.01. Total_steps = 7. Return = 3. Max return = 18, Top 10 = [18, 18, 18, 17, 17, 17, 17, 17, 17, 17]
+Episode 3161 / 7000. Eps = 0.01. Total_steps = 5. Return = 17. Max return = 18, Top 10 = [18, 18, 18, 17, 17, 17, 17, 17, 17, 17]
+Episode 3181 / 7000. Eps = 0.01. Total_steps = 5. Return = 17. Max return = 18, Top 10 = [18, 18, 18, 17, 17, 17, 17, 17, 17, 17]
+
+ --- Episode=3200 ---
+ eps=0.01
+ Average Score in returns_window = 15.46 
+ duration=101.98
+Episode 3201 / 7000. Eps = 0.01. Total_steps = 5. Return = 17. Max return = 18, Top 10 = [18, 18, 18, 17, 17, 17, 17, 17, 17, 17]
+Episode 3221 / 7000. Eps = 0.01. Total_steps = 5. Return = 17. Max return = 18, Top 10 = [18, 18, 18, 17, 17, 17, 17, 17, 17, 17]
+Episode 3241 / 7000. Eps = 0.01. Total_steps = 5. Return = 17. Max return = 18, Top 10 = [18, 18, 18, 17, 17, 17, 17, 17, 17, 17]
+Episode 3261 / 7000. Eps = 0.01. Total_steps = 5. Return = 17. Max return = 18, Top 10 = [18, 18, 18, 17, 17, 17, 17, 17, 17, 17]
+Episode 3281 / 7000. Eps = 0.01. Total_steps = 5. Return = 17. Max return = 18, Top 10 = [18, 18, 18, 17, 17, 17, 17, 17, 17, 17]
+
+ --- Episode=3300 ---
+ eps=0.01
+ Average Score in returns_window = 16.07 
+ duration=105.17
+Episode 3301 / 7000. Eps = 0.01. Total_steps = 5. Return = 17. Max return = 18, Top 10 = [18, 18, 18, 17, 17, 17, 17, 17, 17, 17]
+Episode 3321 / 7000. Eps = 0.01. Total_steps = 5. Return = 17. Max return = 18, Top 10 = [18, 18, 18, 17, 17, 17, 17, 17, 17, 17]
+Episode 3341 / 7000. Eps = 0.01. Total_steps = 5. Return = 17. Max return = 18, Top 10 = [18, 18, 18, 17, 17, 17, 17, 17, 17, 17]
+Episode 3361 / 7000. Eps = 0.01. Total_steps = 5. Return = 17. Max return = 18, Top 10 = [18, 18, 18, 17, 17, 17, 17, 17, 17, 17]
+Episode 3381 / 7000. Eps = 0.01. Total_steps = 5. Return = 17. Max return = 18, Top 10 = [18, 18, 18, 17, 17, 17, 17, 17, 17, 17]
+
+ --- Episode=3400 ---
+ eps=0.01
+ Average Score in returns_window = 15.40 
+ duration=108.35
+Episode 3401 / 7000. Eps = 0.01. Total_steps = 5. Return = 17. Max return = 18, Top 10 = [18, 18, 18, 17, 17, 17, 17, 17, 17, 17]
+Episode 3421 / 7000. Eps = 0.01. Total_steps = 5. Return = 17. Max return = 18, Top 10 = [18, 18, 18, 17, 17, 17, 17, 17, 17, 17]
+Episode 3441 / 7000. Eps = 0.01. Total_steps = 5. Return = 17. Max return = 18, Top 10 = [18, 18, 18, 17, 17, 17, 17, 17, 17, 17]
+Episode 3461 / 7000. Eps = 0.01. Total_steps = 5. Return = 17. Max return = 18, Top 10 = [18, 18, 18, 17, 17, 17, 17, 17, 17, 17]
+Episode 3481 / 7000. Eps = 0.01. Total_steps = 5. Return = 17. Max return = 18, Top 10 = [18, 18, 18, 17, 17, 17, 17, 17, 17, 17]
+
+ --- Episode=3500 ---
+ eps=0.01
+ Average Score in returns_window = 16.53 
+ duration=111.54
+Episode 3501 / 7000. Eps = 0.01. Total_steps = 5. Return = 17. Max return = 18, Top 10 = [18, 18, 18, 17, 17, 17, 17, 17, 17, 17]
+Episode 3521 / 7000. Eps = 0.01. Total_steps = 5. Return = 17. Max return = 18, Top 10 = [18, 18, 18, 17, 17, 17, 17, 17, 17, 17]
+Episode 3541 / 7000. Eps = 0.01. Total_steps = 5. Return = 17. Max return = 18, Top 10 = [18, 18, 18, 17, 17, 17, 17, 17, 17, 17]
+Episode 3561 / 7000. Eps = 0.01. Total_steps = 5. Return = 17. Max return = 18, Top 10 = [18, 18, 18, 17, 17, 17, 17, 17, 17, 17]
+Episode 3581 / 7000. Eps = 0.01. Total_steps = 5. Return = 17. Max return = 18, Top 10 = [18, 18, 18, 17, 17, 17, 17, 17, 17, 17]
+
+Environment solved in 3495 episodes!	Average Score: 17.00, duration=114.56 [s]
+reference_value = 39.99999999999983
+Saved as q_table.pkl
+End of training
+
+Best return : 18 --- with 1 different trajectory(ies)
+[[19, 3]]
+
+    no_change   speed_up  speed_up_up  slow_down  slow_down_down  position  velocity
+0   15.436732 -21.940757     0.000000 -36.331919      -21.377373       0.0       3.0
+78 -25.669262 -15.332040   -13.009295   0.000000        0.000000       1.0       0.0
+38 -29.993849  -9.267730   -26.195096 -25.704332        0.000000       1.0       1.0
+5  -34.637700 -30.179185   -15.175726 -29.167987      -31.553278       2.0       2.0
+50 -11.301604 -15.506768   -11.846670 -10.062097        0.000000       2.0       1.0
+22 -23.861223 -16.773593   -22.631453   0.000000        0.000000       2.0       0.0
+1  -14.479582  18.690034     0.000000 -14.697687      -24.232614       3.0       3.0
+49   0.808296  -9.253333    -9.813991  -8.949101       -8.909617       3.0       2.0
+23 -13.251116 -14.977047   -15.076750 -16.156284        0.000000       3.0       1.0
+65 -13.436903 -10.117717   -12.863985   0.000000        0.000000       3.0       0.0
+32 -33.739825   0.000000     0.000000 -12.322458      -32.117579       4.0       4.0
+51 -20.073327 -16.354150   -15.935937   0.000000        0.000000       4.0       0.0
+54 -11.891896 -22.746360   -10.901374 -13.675593      -15.982085       4.0       2.0
+24 -22.517635  -9.412191   -18.086023 -19.490558        0.000000       4.0       1.0
+39  -3.085528 -13.887501     0.000000  -8.951319       -7.062783       4.0       3.0
+57 -14.643773 -13.193388   -17.876289 -12.816232        0.000000       5.0       1.0
+58 -10.895273 -12.771029   -12.287193   0.000000        0.000000       5.0       0.0
+66   6.010759 -20.678807   -16.108577 -14.393294      -15.540667       5.0       2.0
+10  -9.531298 -15.529027     0.000000  -9.773511      -10.961772       5.0       3.0
+60 -14.686387 -13.981852   -13.610156   0.000000        0.000000       6.0       0.0
+6   -1.375441   0.000000     0.000000 -14.490129       -9.417193       6.0       4.0
+75  -4.156575 -17.074154     0.000000 -19.126601      -18.676932       6.0       3.0
+11 -10.876153 -12.010904   -14.520705 -12.429125        0.000000       6.0       1.0
+40  -6.524507 -16.784414   -16.521218 -16.956402      -18.576962       6.0       2.0
+2   23.929424   0.000000     0.000000  -5.278944       -7.025989       7.0       4.0
+52 -13.237090 -15.474749   -13.025363 -13.760910        0.000000       7.0       1.0
+59  -8.515266  -8.191280     9.183661  -8.132950      -11.480084       7.0       2.0
+67 -17.167121 -10.366728   -11.550540   0.000000        0.000000       7.0       0.0
+25  -3.906752 -15.479803     0.000000 -19.879992      -16.692575       7.0       3.0
+13 -10.530800 -10.817799    -9.690271   0.000000        0.000000       8.0       0.0
+77 -23.755421   0.000000     0.000000 -17.230728      -18.626980       8.0       4.0
+26 -10.462327 -12.527426    -6.424105 -12.984269        0.000000       8.0       1.0
+73 -11.416153 -13.843499     0.000000 -11.281166      -10.893066       8.0       3.0
+12  -1.691814  -8.703266   -27.965181  -8.674832      -12.562253       8.0       2.0
+61 -12.350966 -20.360910   -19.963445   2.902438      -11.516311       9.0       2.0
+46  -5.967312 -11.828426   -11.141824  -7.871175        0.000000       9.0       1.0
+43 -10.826027   0.000000     0.000000 -10.347391       -9.468229       9.0       4.0
+69 -16.175986 -18.805290     0.000000 -12.166879       -0.512429       9.0       3.0
+83 -11.697602  -8.276881    -6.650829   0.000000        0.000000       9.0       0.0
+82  -0.491331  -5.512374    -6.327892   0.000000        0.000000      10.0       0.0
+14  -6.170264 -11.662463   -16.945675  -1.130789       -9.476323      10.0       2.0
+33 -14.350987 -28.065520     0.000000  -7.434537        7.141972      10.0       3.0
+47  -5.237739  14.782058   -12.809730  -8.170227        0.000000      10.0       1.0
+7  -15.344966   0.000000     0.000000 -13.369181       -0.336631      10.0       4.0
+74  -9.473350 -26.960611     0.000000   4.112070       -4.876440      11.0       3.0
+15  -2.221536  -0.834360   -13.247768  15.081042        0.000000      11.0       1.0
+70  -1.096815  -6.768254   -24.824177  -7.725585       -7.271027      11.0       2.0
+3  -50.215523   0.000000     0.000000 -15.287889       27.235612      11.0       4.0
+71  -0.490524  -4.104656    20.237767   0.000000        0.000000      11.0       0.0
+27  25.268984 -12.079138   -17.088252  -3.971339      -11.228009      12.0       2.0
+72   7.099629   0.560091   -17.113707  -6.344322        0.000000      12.0       1.0
+62  -7.064668 -11.758504     0.000000  -5.547538       -3.193768      12.0       3.0
+34  -7.630033 -12.040398    -2.641426   0.000000        0.000000      12.0       0.0
+79 -11.087402   0.000000     0.000000  -9.274022       -4.989435      12.0       4.0
+44  -2.872277   0.000000     0.000000   3.183080       -3.824639      13.0       4.0
+35  -2.630651  -7.366202    10.631326  -7.273757        0.000000      13.0       1.0
+16   8.354651  34.582104    14.811407   8.542967        4.290474      13.0       2.0
+8    1.310337   7.862701     0.000000  -0.668232       -5.677651      13.0       3.0
+17  -7.279721   8.784671    -4.040654   0.000000        0.000000      13.0       0.0
+63  -6.032942   2.914219    -2.238059   0.000000        0.000000      14.0       0.0
+41   1.812750   0.000000     0.000000   6.839737       -1.437130      14.0       4.0
+48   1.336334  -0.729056     0.000000  23.800228       -1.938834      14.0       3.0
+18  18.877541  -1.646189    -2.620552  -0.701532        0.000000      14.0       1.0
+53  28.404146  -0.703852    -1.605986  -1.130865       -1.963875      14.0       2.0
+19  23.917595   0.822338    -4.113550   0.624538        0.000000      15.0       1.0
+20  -0.832397  17.603093    -0.820728   0.000000        0.000000      15.0       0.0
+4   -8.611331   0.000000     0.000000  15.464630       -3.659606      15.0       4.0
+55  -0.993290  -1.944676    -8.048796  -1.171876       10.771235      15.0       2.0
+28  -2.121303  -4.794620     0.000000  -4.105023       -0.563849      15.0       3.0
+37  -3.859705   6.041289    -5.084265   0.000000        0.000000      16.0       0.0
+81  -3.843168   0.000000     0.000000  14.122803        2.984622      16.0       4.0
+29   0.371820   1.743191    32.681213  -1.929640        0.000000      16.0       1.0
+9   40.000000 -31.150834     0.000000  11.205923       16.242608      16.0       3.0
+36   3.378731  37.304100   -14.625249  -0.600565       -0.685697      16.0       2.0
+56   1.324937  -9.701060    30.718227 -11.243059        0.000000      17.0       1.0
+76  -3.403544  -6.105752    -8.048796   0.000000        0.000000      17.0       0.0
+21  -6.650090  15.976434    -7.315098  -3.295769       -5.186358      17.0       2.0
+45  -8.611331   0.000000     0.000000  31.176613      -10.163015      17.0       4.0
+42  22.877973  -6.982594     0.000000 -10.347038       -0.890954      17.0       3.0
+68  -7.317088  -4.035327    13.831908  -9.740210        0.000000      18.0       1.0
+30  -7.317088  31.176613    -9.472464  -6.267953      -11.729313      18.0       2.0
+31 -10.056777  -9.041898    -9.472464   0.000000        0.000000      18.0       0.0
+80  -1.584000   0.000000     0.000000   9.934374       -7.315098      18.0       4.0
+64  31.557563  -9.041898     0.000000 -13.388230       -9.472464      18.0       3.0
+
+hyper_parameters = ('mc_control', 0.99, 0.02, 1.0, 0.01, 0.998466)
+
+

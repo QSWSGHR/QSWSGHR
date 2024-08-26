@@ -1,0 +1,58 @@
+C:\Users\DYX\.conda\envs\rl-for-ad\python.exe C:\Users\DYX\PycharmProjects\VPI\src\main.py 
+C:\Users\DYX\PycharmProjects\VPI/results/simple_road/q_table.pkl
+
+<class 'dict'>
+[0, 3] = initial_observation
+ no_change, 40, True.
+0/10 - Return: 17
+
+Trajectory = [[0, 3], 'no_change', -3, False, [3, 3], 'speed_up', -5, False, [7, 4], 'no_change', -3, False, [11, 4], 'slow_down_down', -7, False, [13, 2], 'speed_up', -5, False, [16, 3], 'no_change', 40, True, [19, 3]]
+[0, 3] = initial_observation
+ no_change, 40, True.
+1/10 - Return: 17
+
+Trajectory = [[0, 3], 'no_change', -3, False, [3, 3], 'speed_up', -5, False, [7, 4], 'no_change', -3, False, [11, 4], 'slow_down_down', -7, False, [13, 2], 'speed_up', -5, False, [16, 3], 'no_change', 40, True, [19, 3]]
+[0, 3] = initial_observation
+ no_change, 40, True.
+2/10 - Return: 17
+
+Trajectory = [[0, 3], 'no_change', -3, False, [3, 3], 'speed_up', -5, False, [7, 4], 'no_change', -3, False, [11, 4], 'slow_down_down', -7, False, [13, 2], 'speed_up', -5, False, [16, 3], 'no_change', 40, True, [19, 3]]
+[0, 3] = initial_observation
+ no_change, 40, True.
+3/10 - Return: 17
+
+Trajectory = [[0, 3], 'no_change', -3, False, [3, 3], 'speed_up', -5, False, [7, 4], 'no_change', -3, False, [11, 4], 'slow_down_down', -7, False, [13, 2], 'speed_up', -5, False, [16, 3], 'no_change', 40, True, [19, 3]]
+[0, 3] = initial_observation
+ no_change, 40, True.
+4/10 - Return: 17
+
+Trajectory = [[0, 3], 'no_change', -3, False, [3, 3], 'speed_up', -5, False, [7, 4], 'no_change', -3, False, [11, 4], 'slow_down_down', -7, False, [13, 2], 'speed_up', -5, False, [16, 3], 'no_change', 40, True, [19, 3]]
+[0, 3] = initial_observation
+ no_change, 40, True.
+5/10 - Return: 17
+
+Trajectory = [[0, 3], 'no_change', -3, False, [3, 3], 'speed_up', -5, False, [7, 4], 'no_change', -3, False, [11, 4], 'slow_down_down', -7, False, [13, 2], 'speed_up', -5, False, [16, 3], 'no_change', 40, True, [19, 3]]
+[0, 3] = initial_observation
+ no_change, 40, True.
+6/10 - Return: 17
+
+Trajectory = [[0, 3], 'no_change', -3, False, [3, 3], 'speed_up', -5, False, [7, 4], 'no_change', -3, False, [11, 4], 'slow_down_down', -7, False, [13, 2], 'speed_up', -5, False, [16, 3], 'no_change', 40, True, [19, 3]]
+[0, 3] = initial_observation
+ no_change, 40, True.
+7/10 - Return: 17
+
+Trajectory = [[0, 3], 'no_change', -3, False, [3, 3], 'speed_up', -5, False, [7, 4], 'no_change', -3, False, [11, 4], 'slow_down_down', -7, False, [13, 2], 'speed_up', -5, False, [16, 3], 'no_change', 40, True, [19, 3]]
+[0, 3] = initial_observation
+ no_change, 40, True.
+8/10 - Return: 17
+
+Trajectory = [[0, 3], 'no_change', -3, False, [3, 3], 'speed_up', -5, False, [7, 4], 'no_change', -3, False, [11, 4], 'slow_down_down', -7, False, [13, 2], 'speed_up', -5, False, [16, 3], 'no_change', 40, True, [19, 3]]
+[0, 3] = initial_observation
+ no_change, 40, True.
+9/10 - Return: 17
+
+Trajectory = [[0, 3], 'no_change', -3, False, [3, 3], 'speed_up', -5, False, [7, 4], 'no_change', -3, False, [11, 4], 'slow_down_down', -7, False, [13, 2], 'speed_up', -5, False, [16, 3], 'no_change', 40, True, [19, 3]]
+---
+17.0 = average return
+
+进程已结束，退出代码为 0
